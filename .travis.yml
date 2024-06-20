@@ -7,6 +7,6 @@ jobs:
       arch: amd64
       dist: focal
       env:
-        - secure: "fd3Ny3Y7WxXL+berMbINBPnZ7cGuVKPIumVzRD2jkOX+iK0/Pyjrn15EHmTR0DRE6rpOyoc0YnEKqAeoajke+wkylb9AQU5auC0jkFRaJbOpJgHFjzDeR3gDPWsRNiOGGeIOwiZ8OKPk5fkeVTe+UP7KNIunFjmKtL+ckbahXFvki1Qea0DE5J2u/WaN6H77qspLqqtV0Cke7mjV+YxMZlH/T1Dbof2qD1z+EttRwvNCRI7+2oWSEXTxAKSGe3fRrBzzK07Ao6K2di7MeTtmxfGA3LSif3+36hHPa+NI3ovBKKa66ezIn4qZeqs0L/zNnprQaC8DTIZn5oKmSLwdZ4r1wXo6m6CQ6nQEK4k8u0PiL56AOfqhXs8PjQooH4MIL1B8SdsJXEQKfyKu2bGT1Fp8xv4xZHslsdnmA5c2xgf9KDNOpc1BgsoNQWs17fH/wt8gSnyq3xWYizkbQ6KIfAk/TP1/RFE5xtPOeHyhlUQhmJ9Yxxx5MrmXmteWOlMSiK40+ntet1pd75dM0jvdN/ZRqy49CaYf/tXvIBG9QzHJ1PqJSwwKl9wqziBiJfA6eG1iFaXifqYtMEfYsiKAVxZ4UsPj6vI8tyMk7iaJyoZ4hj97VIn11Yn/sxVUMSBL6/YVBrvJgPjydTIU7/nfCr/nZF6S8pWoHEPVzNZ2s8M="
+        - secure:  RSi6o05m8ZcgVr9a7TAQ6Ham/3D/zdqYeQG1ggMfK74fHuWJwFPNgAYwujZ7x9ce+kBw+YktKC00gyItX+h7iLbQ5wVmJgbHqUigDh+NbguFoi1HrCICvOFLlK2coyMf4Pq8jnOAMwQ70bJN2X0B2/Fzcm7tb+jQwa50zdgLtPGUR14YEokr74KysW1myjn+/tLQBxd2UtzBjXflqduHiKaaQSzZsUb1oQMcf/ckXdKlrY4qO7kRteESwDWCqXtWNsoSr8/LcR5UeNeeTslglM6TL+wBZVsMDgKlRiwiVzaPQ67afIqL2dox1a2n8stlN2uLGUfAJ+OBbqSOSBY+Xbj2mZQ/JSB38I7HcUJ+ZZFRS7RSZ6rNHaTC5alvyyUF11UKYxSA+aLSBauR1aW5LEBStK4Ug8h0FXNg/oeoayGSbk7bMUuQMdEMOEQNjDQr9c+BLl8YsLeCkix5IBO05PNw="
       script:
         - python hello_world.py
